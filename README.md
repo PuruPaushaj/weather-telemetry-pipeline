@@ -24,3 +24,12 @@ weather-telemetry-pipeline/
 ├── src/                # Python scripts (ETL pipeline)
 ├── .gitignore
 └── README.md
+
+
+🎯 Goals
+
+Build a reliable automated pipeline
+
+Demonstrate process optimization for data engineering
+
+Create compelling visual stories with weather telemetry
