@@ -11,6 +11,7 @@ This project collects **hourly weather telemetry data** (e.g., temperature, humi
 - Version-controlled and reproducible via **GitHub**
 
 ## 📂 Project Structure
+
 weather-telemetry-pipeline/
 │
 ├── data/ <- Raw and processed data
@@ -23,6 +24,8 @@ weather-telemetry-pipeline/
 │
 ├── .gitignore
 ├── README.md
+
+
 
 ## 🎯 Goals
 - Build a **reliable automated pipeline**
