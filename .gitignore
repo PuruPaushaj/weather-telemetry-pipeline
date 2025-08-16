@@ -9,8 +9,12 @@ __pycache__/
 .env
 
 # Data files (don’t push raw/processed to GitHub)
-data/raw/
-data/processed/
+data/raw/*
+data/processed/*
+
+# But keep the .gitkeep files
+!data/raw/.gitkeep
+!data/processed/.gitkeep
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
