@@ -1,5 +1,4 @@
 # weather-telemetry-pipeline
-# Weather Telemetry Pipeline
 
 This project collects **hourly weather telemetry data** (e.g., temperature, humidity, wind speed) from the [Open-Meteo API](https://open-meteo.com/) and builds an **end-to-end data pipeline**.
 
